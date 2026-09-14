@@ -1,0 +1,22 @@
+{F:/Digital design/design projects/AXI/axi4_lite_slave.sv} {1 {vlog -work work -vopt -sv -stats=none {F:/Digital design/design projects/AXI/axi4_lite_slave.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module axi4_lite_slave
+
+Top level modules:
+	axi4_lite_slave
+
+} {} {}} {F:/Digital design/design projects/AXI/axi4_lite_top.sv} {1 {vlog -work work -vopt -sv -stats=none {F:/Digital design/design projects/AXI/axi4_lite_top.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module axi4_lite_top
+
+Top level modules:
+	axi4_lite_top
+
+} {} {}} {F:/Digital design/design projects/AXI/axi4_lite_master.sv} {1 {vlog -work work -vopt -sv -stats=none {F:/Digital design/design projects/AXI/axi4_lite_master.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module axi4_lite_master
+
+Top level modules:
+	axi4_lite_master
+
+} {} {}}
